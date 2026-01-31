@@ -1,4 +1,4 @@
-###👋 Hi, I'm Madhu Shree M
+👋 Hi, I'm Madhu Shree M
 
 🎓 Computer Science Student (AI & Data Science)  
 🤖 Interested in Machine Learning, AI, Data Science   

@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Madhu  
+###👋 Hi, I'm Madhu Shree M
 
 🎓 Computer Science Student (AI & Data Science)  
-🤖 Interested in Machine Learning & AI  
+🤖 Interested in Machine Learning, AI, Data Science   
 💻 Currently learning Python, ML, Streamlit  
 
 ### 🔧 Skills
@@ -13,10 +13,9 @@
 
 ### 📌 Projects
 - 🏠 House Price Prediction (ML + Streamlit)  
-- 📊 Data Analysis Projects  
+- 📊 Coffee Shop Sale Prediction  
 
 ### 📫 Contact Me
-- Email: yourmail@gmail.com  
-- LinkedIn: https://linkedin.com/in/yourname  
-
+- Email: madhushreemarichamy21@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/madhu-shree-00a9bb312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ⭐ Always learning & building cool stuff!

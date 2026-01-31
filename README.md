@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Madhu  
 
-<!--
-**MadhuShree-M/MadhuShree-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student (AI & Data Science)  
+🤖 Interested in Machine Learning & AI  
+💻 Currently learning Python, ML, Streamlit  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python  
+- Machine Learning  
+- Data Science  
+- Streamlit  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 🏠 House Price Prediction (ML + Streamlit)  
+- 📊 Data Analysis Projects  
+
+### 📫 Contact Me
+- Email: yourmail@gmail.com  
+- LinkedIn: https://linkedin.com/in/yourname  
+
+⭐ Always learning & building cool stuff!
